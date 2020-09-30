@@ -2,7 +2,7 @@
 mac address changer using python (without optparse)
 module used are 
 1-subprocess
-2-re
+2-re(regular expression)
 
 
 
